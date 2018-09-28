@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+		xmlns:gap   = "http://phonegap.com/ns/1.0"
+		id	    = "tw.whatmake.shinjia.p5app.s001"
+		versionCode = "1" 
+		version     = "0.1.0" >
+ 
+	<name>p5app S001</name>
+ 
+	<description>
+		紛雜荒亂之中，我們總能緊緊相繫不分開。
+	</description>
+ 
+	<author href="" email="shinjia168@gmail.com">
+		Shinjia
+	</author>
+	
+	<icon src="icon.png" />
+	
+	<!-- current version of PhoneGap -->
+	
+	<preference name='phonegap-version' value='cli-6.5.0' />
+	
+	<!-- 設定畫面固定為水平(landscape)、垂直(portrait) -->
+	<preference name="orientation" value="all" />
+
+	<!-- 加入其它plugin設定 -->
+	<platform name="android">
+    	<preference name="android-targetSdkVersion" value="26" />
+	</platform>
+	
+</widget>
