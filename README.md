@@ -2,7 +2,7 @@
 
 ## 打包設定檔
 
--config.xml
+- config.xml
 
 
 ## 上傳所需的圖
