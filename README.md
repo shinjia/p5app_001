@@ -21,7 +21,3 @@ p5app_001
 ### 完整說明 (4000字內)
 
 這是 p5app 系列作品的第 001 號。
-
-## 範例
-
-<iframe width="600" height="600" src="https://codepen.io/shinjia/live/zJgeJo"></iframe>
